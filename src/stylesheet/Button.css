@@ -1,0 +1,17 @@
+.btn{
+  font-size: 1.5em;
+  padding: .5rem 1rem;
+  border: none;
+  border-radius: .5rem;
+  cursor: pointer;
+  transition: opacity .1s ease-in-out;
+}
+
+.btn:hover{
+    opacity: .5;
+}
+
+.addBtn{
+  background-color: #1f7bd6;
+  color: #fff;
+}
